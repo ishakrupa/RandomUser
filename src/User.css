@@ -1,0 +1,38 @@
+
+.App{
+    background: #664b92;
+  }
+
+
+table th , td{
+    border: 1px solid;
+    width: 50%;
+    border-bottom: 1px solid rgb(221, 221, 221);
+    border-collapse: collapse;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+}
+
+td{
+    text-align: left;
+}
+
+
+tr:hover {background-color: coral;}
+
+th {
+    background-color: #049faa;
+    color: rgb(255, 255, 255);
+  }
+  table{
+    display:table-cell;
+    position: fixed;
+    text-align: center;
+    background: #a321a7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 7px 0;
+    font-size: 20px;
+    color: antiquewhite;
+  }
+ 
